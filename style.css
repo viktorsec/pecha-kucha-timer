@@ -1,0 +1,35 @@
+#center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#next-slide-label {
+    font-size: 32px;
+    margin-bottom: -6pt;
+}
+
+#end-of-panel {
+    font-size: 92px;
+}
+
+#end-of-presentation {
+    font-size: 32px;
+    margin-top: -8pt;
+    margin-bottom: 20pt;
+}
+
+#rearm-label {
+    display: none;
+}
+
+.pulse {
+}
+
+.timer {
+    font-family: "Courier New", Courier, monospace;
+}
